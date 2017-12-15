@@ -1,0 +1,115 @@
+.descripcion {
+    background: rgba(0,0,0, 0.3);
+    padding: 25px;
+    transition: .8s ease;
+    font-family: 'Raleway', sans-serif;
+}
+
+.descripcion h3 {
+    color: #fff;
+}
+
+
+.descripcion a {
+    text-decoration: none;
+}
+
+.descripcion:hover {
+    background: rgba(0,0,0,0.85);
+    transition: .8s ease;
+}
+
+
+.descripcion p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;;
+    color: lightgray;
+}
+
+.iconos_sociales {
+    color: gray;
+    transition: .5s ease;
+}
+
+.iconos_sociales:hover{
+    color: lightgray;
+    transition: .5s ease;
+    
+}
+
+#Contador {
+    color: darkgray;
+    background-color:rgba(0,0,0,0.8);
+    padding: 30px;
+    margin-top: 30px;
+}
+
+#Nosotros {
+    color: darkgray;
+    background-color: rgba(0,0,0,0.8);
+    padding: 100px;
+}
+
+#Nosotros p {
+    margin-top: 30px;
+}
+
+
+
+h1 {
+    text-align: center;
+    margin: 50px;
+}
+
+.card-body p {
+    color: rgba(0,0,0,0.5);
+}
+
+#FINAL {
+    padding: 10px;
+    background-color: rgba(0,0,0,0.8); 
+}
+
+.contador {
+    font-size: 50px;
+}
+
+
+
+.titulo {
+    font-family: 'Marck Script', cursive;
+    color: lightgray;
+        
+}
+
+
+.ir-arriba {
+    display: none;
+    padding: 10px;
+    background-color: #E0E0E0;
+    color: gray;
+    cursor: pointer;
+    position: fixed;
+    bottom: 30px;
+    right: 10px;
+    border-radius: 100%;
+    z-index: 3000;
+    transition: 1s ease;
+    box-shadow: 0px 0px 10px 1px;
+}
+
+.ir-arriba:hover {
+    background: darkgray;
+    color: #fff;
+    transition: 1s ease;
+}
+
+footer h6 {
+    color: #E0E0E0;
+}
+
+footer a:hover{
+    text-decoration: none;
+    color: darkgray;
+    transition: ease .5s;
+}

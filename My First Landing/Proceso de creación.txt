@@ -1,0 +1,29 @@
+Bien, aquí vamos!!  
+
+Este proyecto final fue muy interesante en realidad al inicio de este diplomado no creí que yo fuera capaz de crear algo como esta landing page, de la que me siento orgullos.
+
+Mi herramienta principal y mi mejor aliado fue el Framework de Bootstrap 4, además añadí unas cuantas librerias
+ como el contador que usted nos proporcionó (Tengo un fallo en el, no he podido hacer que el inicie cuando el
+ scroll este en esa section... pero bueno..) tambien incoroporé la lib de wow y las animaciones de AnimateCSS
+ tenía en mente añadir la lib de typist, incluso la añadí al archivo, pero por el tiempo no la puse a funcionar
+ en la pág. 
+
+Horas de trabajo.... mmm, en general digamos que unas 30h, hice la mayor parte para el domingo pasado y ya para
+esta entrga final era añadir los textos que iban y poner las diferentes lib.
+
+Un elemento que añadí a mi pag para facilitar la navegcion fue un boton de "ir-arriba", está en la parte inferior
+derecha de la pantalla.
+
+Conocimientos que no olvidaré del diplomado son basicamente todos.... si miras mi primer trabajo, te habrás 
+de haber dado cuenta que no tenía basicamente ningún conocimiento de HTML ni CSS... lo mas que había hecho
+era crear una pag con Dreamweaver en 4to de bachiller. Es por esto que me siento tan bien, al ver lo que he 
+podido hacer con la ayuda del diplomado, tus orientaciones y la dedicación.
+
+Me gustó mucho el diplomado, y tambien creo que eres un buen profesor de estos temas, tienes muchos conocimientos
+relacionados al desarrollo Web.
+
+Algo que no me gustó del diplomado es que no se menciona en ningún lado la parte de como subir nuestras paginas
+al internet. Pienso que sería bueno dar una breve descripcion de como se sube una pag al internet. Los pasos 
+que hay que hacer, lo que hay que comprar y pagar y todo eso. 
+
+y nada ya sabes, nos mantenemos en contacto. muy agradecido con esta experiencia
